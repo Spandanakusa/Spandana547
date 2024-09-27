@@ -1,8 +1,8 @@
 import java.io.*;
-class First
+ public class Fist
 {
 	public static void main(String arg[])
 	{
-		system.out.println("welcome to Devops lab");
+		System.out.println("welcome to Devops lab");
 	}
 }
